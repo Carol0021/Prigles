@@ -1,8 +1,5 @@
 gsap.registerPlugin(ScrollTrigger);
 
-//  Olá, meus amigos! Espero de coração que tenham gostado do evento, ele foi pensado com muito carinho pra realmente ajudar vocês a darem os próximos passos na carreira.
-// Se decidirem entrar pra comunidade, será um prazer enorme tê-los com a gente! Só não deixem pra depois… as vagas serão encerradas em breve, e as próximas turmas terão um valor mais alto. 
-
 // MAPEAMENTO
 const botaoNext = document.querySelector(".botaoNext");
 const botaoPrev = document.querySelector(".botaoPrev");
@@ -145,3 +142,4 @@ gsap.to(".verde .lataEtapa", {
     scrub: 2,
   },
 });
+
